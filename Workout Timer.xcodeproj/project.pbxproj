@@ -78,6 +78,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8A83DAA924A5DF4E0038CAC6 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				8AA3135024A5D117003BC051 /* ViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
 		8AA3134024A5D117003BC051 = {
 			isa = PBXGroup;
 			children = (
@@ -101,9 +109,9 @@
 		8AA3134B24A5D117003BC051 /* Workout Timer */ = {
 			isa = PBXGroup;
 			children = (
+				8A83DAA924A5DF4E0038CAC6 /* Controller */,
 				8AA3134C24A5D117003BC051 /* AppDelegate.swift */,
 				8AA3134E24A5D117003BC051 /* SceneDelegate.swift */,
-				8AA3135024A5D117003BC051 /* ViewController.swift */,
 				8AA3135224A5D117003BC051 /* Main.storyboard */,
 				8AA3135824A5D119003BC051 /* Assets.xcassets */,
 				8AA3135A24A5D119003BC051 /* LaunchScreen.storyboard */,
